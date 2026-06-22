@@ -45,20 +45,6 @@ A fixed random seed of 42 was used where supported. The dataset split followed a
 
 Due to differences between Colab runtimes and GPU availability, exact runtime-level reproduction may vary. The repository is intended to support transparent inspection of the experimental workflow, model configurations, evaluation protocol and reported results.
 
-## Statistical testing note
-
-The current manuscript reports aggregate metrics, confusion matrices, ROC-AUC, F1-score and robustness summaries. Statistical testing such as bootstrap confidence intervals and McNemar’s test requires per-sample prediction exports containing:
-
-```text
-test_sample_index, image_path_or_hash, y_true, y_pred, y_prob, threshold, model_name, condition
-```
-
-Where available, prediction exports should be placed in:
-
-```text
-results/prediction_exports/
-```
-
 ## Clinical validity statement
 
 This work provides internally valid simulator-based evidence under the evaluated dataset split, preprocessing pipeline, model configurations and simulated quantum-noise settings. External clinical validity is not established because no independent dataset, patient-level split, prospective clinical evaluation or real-world clinical workflow validation was performed.
