@@ -2,8 +2,8 @@ cff-version: 1.2.0
 title: "Robustness Analysis of Hybrid Quantum-Classical Deep Learning for Diabetic Foot Ulcer Classification Under NISQ-Inspired Noise"
 message: "If you use this repository, please cite the associated manuscript."
 authors:
-  - family-names: "Fernando"
-    given-names: "Avishka Pramuditha Warnakulasuriya"
+  - family-names: "Warnakulasuriya Fernando"
+    given-names: "Avishka Pramuditha "
   - family-names: "Zolfaghari"
     given-names: "Mahsa"
   - family-names: "Vakili"
