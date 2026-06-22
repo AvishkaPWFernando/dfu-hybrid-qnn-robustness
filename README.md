@@ -67,12 +67,15 @@ This work provides internally valid simulator-based evidence under the evaluated
 
 Avishka Pramuditha Warnakulasuriya Fernando
 Staffordshire University London, United Kingdom
-
-Dr. Mahsa Zolfaghari
-Staffordshire University London, United Kingdom
+w022401o@student.staffs.ac.uk
 
 Dr. Behrad Vakili
 King’s College London, United Kingdom
+behrad.vakili@kcl.ac.uk
+
+Dr. Mahsa Zolfaghari
+Staffordshire University London, United Kingdom
+mahsa.zolfaghari@staffs.ac.uk
 
 ## Citation
 
